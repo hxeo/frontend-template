@@ -1,9 +1,9 @@
 function App() {
 
   return (
-    <>
-      <span>This is my begin!</span>
-    </>
+    <div className={"h-screen bg-slate-200"}>
+      <span className={"text-2xl bg"}>This is my begin!</span>
+    </div>
   )
 }
 
